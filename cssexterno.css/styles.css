@@ -1,0 +1,32 @@
+.yellow{
+    color: rgb(180, 127, 28);
+    background-color: #ffa500;
+     width: 500px; 
+     height: 500px;
+}
+
+.green{
+    background-color: lightgreen;
+     width: 50%; 
+     height: 50%;
+}
+
+.red{
+    color: black;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.greenClaro{
+    background-color: rgb(173, 216, 230); 
+    width: 50%; 
+    height: 50vh;
+}
+
+.secomdred{
+    background-color: rgb(255, 0, 0);
+     width: 75vw; 
+     height: 50%;
+}
